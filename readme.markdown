@@ -2,7 +2,7 @@
 ## Convert from DOCX or HTML to EPUB, Kindle, and PDF in PHP
 
 ### Introduction
-Digital Format Conversion tools enable conversion from Microsoft Word (2007+) DOCX format or HTML to EPUB, Kindle and PDF in PHP.
+Conversion Tools in PHP enable conversion from Microsoft Word (2007+) DOCX format or HTML to EPUB, Kindle and PDF in PHP.
 
 The EPub Controller/Model examples are the most complete in this application, including basic content cleansing and setting of options specific to the EPub conversion library.
 
@@ -15,8 +15,6 @@ The tools are constructed from a range of Open Source elements, including:
 * Twitter Bootstrap (http://twitter.github.com/bootstrap/)
 * A copy of the source code for these elements are available in /library
 
-### Background
-I have developed this package to demonstrate, in a simple way, the conversion tools seen in https://github.com/campus-based-publishing/CBPPlatform
 
 ### Application Structure
 This simple application uses a basic MVC architecture. Models/Views/Controllers are found in the /application directory.
